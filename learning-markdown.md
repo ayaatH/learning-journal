@@ -1,5 +1,6 @@
 # learning markdown
 
+![markdown Logo](https://jblevins.org/projects/markdown-mode/screenshots/20170818-001.png)
 ## Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 **What you will learn**:
