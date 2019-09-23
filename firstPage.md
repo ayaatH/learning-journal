@@ -12,6 +12,6 @@ welcome to you in my test page
 
 *let me give  a dvice for your "no thing easy"
 
-links [ways to ask help] (https://www.psychologytoday.com/us/blog/in-practice/201610/7-effective-ways-ask-help-and-get-it) 
+links [ways to ask help](https://www.psychologytoday.com/us/blog/in-practice/201610/7-effective-ways-ask-help-and-get-it) 
 
-links [ways to make study easy] (https://www.wikihow.com/Study) 
+links [ways to make study easy](https://www.wikihow.com/Study) 
