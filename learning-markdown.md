@@ -14,5 +14,5 @@
 * How to apply GitHub’s unique Markdown extensions
 
 What is Markdown?
-links.[Markdown].(https://guides.github.com/features/mastering-markdown/) is a way to style text on the web. You control the display of the documant
+links.[Markdown].(https://guides.github.com/features/mastering-markdown/) is a way to style text on the web. You control the display of the documant.
 
